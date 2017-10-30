@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( FaceRec )
+find_package( OpenCV REQUIRED )
+add_executable( FaceRec LBPH.cpp )
+target_link_libraries( FaceRec ${OpenCV_LIBS} )

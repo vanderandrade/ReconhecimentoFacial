@@ -1,0 +1,3 @@
+/home/vander/ProjetosOpenCV/FaceRecognizer/CMakeFiles/edit_cache.dir
+/home/vander/ProjetosOpenCV/FaceRecognizer/CMakeFiles/rebuild_cache.dir
+/home/vander/ProjetosOpenCV/FaceRecognizer/CMakeFiles/FaceRec.dir

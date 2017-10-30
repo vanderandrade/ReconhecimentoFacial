@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( CapFrame )
+find_package( OpenCV REQUIRED )
+add_executable( CapFrame capFrame.cpp )
+target_link_libraries( CapFrame ${OpenCV_LIBS} )

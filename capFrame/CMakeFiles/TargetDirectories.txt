@@ -1,0 +1,3 @@
+/home/vander/ProjetosOpenCV/capFrame/CMakeFiles/edit_cache.dir
+/home/vander/ProjetosOpenCV/capFrame/CMakeFiles/rebuild_cache.dir
+/home/vander/ProjetosOpenCV/capFrame/CMakeFiles/CapFrame.dir
